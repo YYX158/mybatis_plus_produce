@@ -1,0 +1,3 @@
+该项目为mybatis-plus的入门项目，主要是直接继承了mybatis-plus中提供的抽象类。
+通过提供现成的mapper接口，和提供的Service层实体类，从而完成简单的crud操作。
+定义的接口都放在了mrc\main下面，具体采用功能测试都是使用测试类。
